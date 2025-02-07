@@ -1,0 +1,11 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore VSCode settings folder
+.vscode/
+
+# Ignore sensitive configuration files
+.env
