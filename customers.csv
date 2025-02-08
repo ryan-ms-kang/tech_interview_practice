@@ -1,0 +1,9 @@
+customer_id,customer_name,region,registration_date
+101,Alice,North,2023-12-15
+102,Bob,South,2023-12-20
+103,Charlie,East,2023-12-01
+104,David,North,2023-11-30
+105,Eva,West,2024-01-05
+106,Frank,South,2023-12-10
+107,Grace,North,2023-12-25
+108,Hank,West,2023-12-05
